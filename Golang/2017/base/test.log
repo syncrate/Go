@@ -1,0 +1,3 @@
+<New>2021/12/31 00:32:48 log.go:35: 这是自定义的logger记录的日志。
+<New>2021/12/31 00:32:48 log.go:39: this is a normal log
+<New>2021/12/31 00:32:48 log.go:41: this is a very import log 
