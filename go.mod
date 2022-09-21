@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/go-vgo/robotgo v0.100.10
+	github.com/mattn/go-sqlite3 v1.14.15
 	github.com/q1mi/hello v0.1.2-0.20210219092711-2ccfaddad6a3
 )
 
